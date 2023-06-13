@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Entrex</string>
+    <string name="login">Login</string>
+    <string name="email">IITK Email id</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click to Login</string>
+    <string name="click_to_register">Not registered yet? Register Now</string>
+    <string name="logout">logout</string>
+    <string name="empty_string" />
+    <string name="forgot_password">Forgot Password</string>
+</resources>
